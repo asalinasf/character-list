@@ -1,6 +1,6 @@
 # Character List
 
-This project is about a Card Nike, is made with HTML, CSS and Sass
+This project is about a list of Simpsons characters, is made with HTML, CSS and Sass
 
 # Screen Project
 <div align="center">
